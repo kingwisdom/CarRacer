@@ -1,0 +1,9 @@
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Debug\CarRacer.exe.config
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Debug\CarRacer.exe
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Debug\CarRacer.pdb
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.Form1.resources
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.Properties.Resources.resources
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.csproj.GenerateResource.Cache
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.exe
+c:\users\kingwisdom\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.pdb
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Debug\CarRacer.csprojResolveAssemblyReference.cache

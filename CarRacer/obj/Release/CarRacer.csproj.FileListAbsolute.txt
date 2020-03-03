@@ -1,0 +1,8 @@
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Release\CarRacer.exe.config
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Release\CarRacer.exe
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\bin\Release\CarRacer.pdb
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Release\CarRacer.Form1.resources
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Release\CarRacer.Properties.Resources.resources
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Release\CarRacer.csproj.GenerateResource.Cache
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Release\CarRacer.exe
+C:\Users\KINGWISDOM\documents\visual studio 2015\Projects\CarRacer\CarRacer\obj\Release\CarRacer.pdb
